@@ -1,5 +1,5 @@
-train: C:\Users\letri\Documents\project\early_fusion\data\cb_add\images\train
-val: C:\Users\letri\Documents\project\early_fusion\data\cb_add\images\val
-test: C:\Users\letri\Documents\project\early_fusion\data\cb_add\images\test
+train: /kaggle/input/cb-mfb/cb_mfb/images/train
+val: /kaggle/input/cb-mfb/cb_mfb/images/val
+test: /kaggle/input/cb-mfb/cb_mfb/images/test
 nc: 2
 names: ['People', 'Car']
